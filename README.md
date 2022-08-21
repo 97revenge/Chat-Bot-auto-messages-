@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
    <div style="background-color: black; align-content: center;">
         <h1 style="align-items: center; border-radius: 6em; ">
             <p style=" text-align: center; margin:5px; padding: 0 20px 0 20px ">Um Chat-Bot de mensagens automaticas🤖</p>
@@ -8,6 +8,11 @@
         <p style="border-radius: 10em;"><strong>Um ChatBot com mensagens automáticas desenvolvido em HTML, CSS e JS 🔆<br></strong>
             <p>Este Conteudo faz parte do meu portifólio. </p>
         </p>
+        
+        
+        ###### INTERFACE in HTML & CSS  PURE 
+        ![image](https://user-images.githubusercontent.com/80254945/185771289-8bf22fd2-dd1d-4af9-802f-3a8eb798c45c.png)
+
 
 
 
