@@ -1,3 +1,4 @@
+<<<<<<< HEAD
    <div style="background-color: black; align-content: center;">
         <h1 style="align-items: center; border-radius: 6em; ">
             <p style=" text-align: center; margin:5px; padding: 0 20px 0 20px ">Um Chat-Bot de mensagens automaticas🤖</p>
@@ -19,4 +20,9 @@
 
  ##### [_Edit on VS CODE_  ⚡️🛹]
 
+=======
+<h1 style " text-align: center;">
+    <p style="text-align: center; "><str>Um Chat-Bot de mensagens automaticas</str>🤖</p>
+</h1>
+>>>>>>> c7983b357910148d144331d025286590ecf0a8d3
 
