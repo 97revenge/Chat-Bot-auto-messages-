@@ -9,9 +9,12 @@
             <p>Este Conteudo faz parte do meu portifólio. </p>
         </p>
         
+        </div>
         
+        ![image](https://user-images.githubusercontent.com/80254945/185771309-7c33349c-40d4-4496-877d-deb245cca116.png)
+
      
-        ![image](https://user-images.githubusercontent.com/80254945/185771289-8bf22fd2-dd1d-4af9-802f-3a8eb798c45c.png)
+       
 
 
 
@@ -29,5 +32,5 @@
 <h1 style " text-align: center;">
     <p style="text-align: center; "><str>Um Chat-Bot de mensagens automaticas</str>🤖</p>
 </h1>
->>>>>>> c7983b357910148d144331d025286590ecf0a8d3
+
 
