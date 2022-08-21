@@ -2,31 +2,39 @@
 <html lang="en">
 
 <head>
-    <title></title>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link href="css/style.css" rel="stylesheet">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cabin:ital,wght@0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap" rel="stylesheet">
+
+
+
+    <title>ChatBot - Mensagens Automaticas</title>
+
 </head>
 
+
 <body>
-
-    <div style="background-color: black; align-content: center;">
-        <h1 style="align-items: center; border-radius: 6em; ">
-            <p style=" text-align: center; margin:5px; padding: 0 20px 0 20px ">Um Chat-Bot de mensagens automaticas🤖</p>
-        </h1>
-        <img style="align-content: center ;" src="https://64.media.tumblr.com/96bbc96af4d48d633bebb993c52e637f/cd265649d5c353e8-79/s540x810/efa7c1b8ced2790881b6e19c309ccb5a5d2e47aa.gifv" alt="estudy">
-        <div style="font-size: small; text-align:;">
-            <p style="border-radius: 10em;"><strong>Um ChatBot com mensagens automáticas desenvolvido em HTML, CSS e JS 🔆<br></strong>
-                <p>Este Conteudo faz parte do meu portifólio. </p>
-            </p>
+    <script src="talk.js"></script>
 
 
 
 
+    <div class="glass">
+        <h1>Mensagens Automaticas 🤖</h1>
+        <h2>Faça algumas perguntas 😄</h2>
 
-            <br>
-            <br>
-            <br>
+        <div class="input">
+            <input type="text" id="userBox" onkeydown="if(event.keycode == 13){talk()}" placeholder="Digite sua pergunta🤖" />
+        </div>
+        <p id="chatLog">Answer Appering Hear </p>
+    </div>
+    <nav><em>Isso é uma navbar</em> 😀</nav>
+    <section>Isso é uma Section 😄</section>
+    <line>Isso é uma linha 🐱‍🏍</line>
 
 
 
